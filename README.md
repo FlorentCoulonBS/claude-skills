@@ -31,6 +31,7 @@ cd /opt/repos/claude-skills && git pull
 | seo-geo | Optimisation pour les moteurs de recherche IA (GEO/AEO) — AI Overviews, ChatGPT, Perplexity |
 | seo-local | SEO local — Google Business Profile, NAP, citations, reviews |
 | seo-plan | Planification strategique SEO — roadmap, content calendar, architecture |
+| owasp-security | Revue securite code — OWASP Top 10:2025, ASVS 5.0, Agentic AI security, 20+ langages |
 
 ## Instructions partagees
 
@@ -38,4 +39,4 @@ cd /opt/repos/claude-skills && git pull
 
 ## Licence
 
-Skills importes de [marketingskills](https://github.com/coreyhaines31/marketingskills) et [claude-seo](https://github.com/AgriciDaniel/claude-seo) sous licence MIT.
+Skills importes de [marketingskills](https://github.com/coreyhaines31/marketingskills), [claude-seo](https://github.com/AgriciDaniel/claude-seo) et [claude-code-owasp](https://github.com/agamm/claude-code-owasp) sous licence MIT.
